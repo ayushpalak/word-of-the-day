@@ -14,7 +14,7 @@ function App() {
         <h1 style={{color:"white"}}>
           {glbword.split("\n")[0].split(".")[1]} 
         </h1>
-        <br></br>
+        
         <h2>
         <p style={{display:"inline-block",color:"white"}}>{glbword.split("\n")[2].split(":")[0]} : </p> <p style={{display:"inline-block"}}>{glbword.split("\n")[2].split(":")[1]}</p>
         </h2>
