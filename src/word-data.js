@@ -205,7 +205,7 @@ Antonyms: straighten, uncoil, align, uncurl, unravel
 Usage: The prawns are seen wriggling and writhing on the skewers, which are placed on a plate on the table. (Source: The Sun)
 
 
-31. Wizen 
+31. Wizen
 Pronunciation: wiz-uh n; wee-zuh n
 Meaning: To become or cause to become withered or dry.
 Synonyms: divest, drain, parch, wither, devitalize
