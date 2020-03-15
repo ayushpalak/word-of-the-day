@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
-        <div style={{marginTop:"5%"}}>
+        <div style={{paddingTop:"5%"}}>
         <h1 style={{color:"white"}}>
           {glbword.split("\n")[0].split(".")[1]} 
         </h1>
